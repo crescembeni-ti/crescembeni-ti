@@ -44,9 +44,12 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31qbm26yosl2y5perwlthvzchr3a?si=b03dfba4b77441a7">
-    <img src="https://open.spotify.com/intl-pt/track/17FxYOCcJ0lF4M2EuYkrb5?si=77567173e0584bbe" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/track/6OwgZjWECszO2vCuxnxOQx">
+    <img 
+      src="https://img.shields.io/badge/Spotify-Sigo%20na%20Sombra%20%7C%20BK-1DB954?style=for-the-badge&logo=spotify&logoColor=white" 
+      alt="BK - Sigo na Sombra"/>
   </a>
 </div>
+
 
 ###
