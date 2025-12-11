@@ -39,7 +39,7 @@
 
 ###
 
-<h6 align="center">"A dor e o sofrimento são sempre inevitáveis para uma inteligência ampla e um coração profundo."</h6>
+<h6 align="center">"Sempre que alguém tá perto de um avanço, o inferno antecipa o ataque"</h6>
 
 ###
 
