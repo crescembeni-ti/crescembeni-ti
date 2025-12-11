@@ -44,7 +44,7 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/gadernal">
+  <a href="https://open.spotify.com/user/crescembeni">
     <img src="https://open.spotify.com/intl-pt/track/17FxYOCcJ0lF4M2EuYkrb5?si=77567173e0584bbe" alt="Spotify recently played"  />
   </a>
 </div>
