@@ -44,10 +44,8 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/track/6OwgZjWECszO2vCuxnxOQx">
-    <img 
-      src="https://img.shields.io/badge/Spotify-Sigo%20na%20Sombra%20%7C%20BK-1DB954?style=for-the-badge&logo=spotify&logoColor=white" 
-      alt="BK - Sigo na Sombra"/>
+  <a href="https://open.spotify.com/user/gadernal">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=gadernal&count=1" alt="Spotify recently played"  />
   </a>
 </div>
 
